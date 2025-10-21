@@ -1,2 +1,3 @@
 # obsidiandynamics/kafdrop:4.2.0
+# used in ruoyi-ai
 semitechnologies/weaviate:1.19.7
